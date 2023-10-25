@@ -1,0 +1,11 @@
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\bin\Debug\net7.0\BlazorExpenseTracker.Model.deps.json
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\bin\Debug\net7.0\BlazorExpenseTracker.Model.dll
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\bin\Debug\net7.0\BlazorExpenseTracker.Model.pdb
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\obj\Debug\net7.0\BlazorExpenseTracker.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\obj\Debug\net7.0\BlazorExpenseTracker.Model.AssemblyInfoInputs.cache
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\obj\Debug\net7.0\BlazorExpenseTracker.Model.AssemblyInfo.cs
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\obj\Debug\net7.0\BlazorExpenseTracker.Model.csproj.CoreCompileInputs.cache
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\obj\Debug\net7.0\BlazorExpenseTracker.Model.dll
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\obj\Debug\net7.0\refint\BlazorExpenseTracker.Model.dll
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\obj\Debug\net7.0\BlazorExpenseTracker.Model.pdb
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Model\obj\Debug\net7.0\ref\BlazorExpenseTracker.Model.dll

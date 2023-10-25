@@ -1,0 +1,15 @@
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\bin\Debug\net7.0\BlazorExpenseTracker.Data.deps.json
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\bin\Debug\net7.0\BlazorExpenseTracker.Data.dll
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\bin\Debug\net7.0\BlazorExpenseTracker.Data.pdb
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\bin\Debug\net7.0\BlazorExpenseTracker.Model.dll
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\bin\Debug\net7.0\BlazorExpenseTracker.Model.pdb
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\BlazorExpenseTracker.Data.csproj.AssemblyReference.cache
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\BlazorExpenseTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\BlazorExpenseTracker.Data.AssemblyInfoInputs.cache
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\BlazorExpenseTracker.Data.AssemblyInfo.cs
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\BlazorExpenseTracker.Data.csproj.CoreCompileInputs.cache
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\BlazorExpenseTracker.Data.csproj.CopyComplete
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\BlazorExpenseTracker.Data.dll
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\refint\BlazorExpenseTracker.Data.dll
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\BlazorExpenseTracker.Data.pdb
+D:\RiderProjects\BlazorExpenseTracker.UI\BlazorExpenseTracker.Data\obj\Debug\net7.0\ref\BlazorExpenseTracker.Data.dll
